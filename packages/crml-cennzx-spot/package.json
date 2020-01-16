@@ -18,9 +18,9 @@
     "build": "echo \"Error: run build from root\" && exit 1"
   },
   "dependencies": {
-    "@cennznet/api": "^0.20.7",
+    "@cennznet/api": "^1.0.0-alpha.0",
     "@cennznet/crml-generic-asset": "^1.0.0-alpha.0",
-    "@cennznet/types": "^0.20.7",
+    "@cennznet/types": "^1.0.0-alpha.0",
     "@cennznet/util": "^1.0.0-alpha.0"
   },
   "devDependencies": {
